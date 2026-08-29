@@ -1,14 +1,17 @@
 ## Hi, I'm Megha 👋
 
 🎓 Computer Science Student  
-💻 Learning Git, GitHub & Web Development  
-🌱 Currently building my developer portfolio  
+💻 Learning Git, GitHub , AI/ML & Data Science 
+🌱 Currently building my AI/ML portfolio  
 
 ### 🔧 Skills
 - Git & GitHub
-- C Programming
+- C++ Programming
+- Python Programming
 - Data Structures (Basics)
-- HTML (Beginner)
+- Algorithm
+- Machine Learning
+- Artificial Intelligence
 
 ### 🌐 Live Projects
 - Git Basics Practice:  
