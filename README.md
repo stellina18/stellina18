@@ -1,7 +1,7 @@
 ## Hi, I'm Megha 👋
 
 🎓 Computer Science Student  
-💻 Learning Git, GitHub , AI/ML & Data Science 
+💻 Learning Git, GitHub, AI/ML & Data Science 
 🌱 Currently building my AI/ML portfolio  
 
 ### 🔧 Skills
@@ -12,9 +12,3 @@
 - Algorithm
 - Machine Learning
 - Artificial Intelligence
-
-### 🌐 Live Projects
-- Git Basics Practice:  
-  https://stellina18.github.io/git-basics-practice/
-
-📫 Reach me on GitHub
